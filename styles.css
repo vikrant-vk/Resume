@@ -1,0 +1,26 @@
+body{
+  background-color: #eeeeee;
+  color: #cf1b1b;
+  font-weight: bold;
+  font-size: 20px;
+}
+.vik{
+  border-radius: 100%;
+}
+hr{
+  border-style: double;
+  color: #96bb7c;
+  height: 0;s
+  border-width: 50%;
+  width: 50%;
+}
+.colour{
+  color: #4f8a8b;
+  font-style: red serif;
+}
+.edu{
+  border-color: #006a71;
+}
+.skill{
+  border-color: #006a71;
+}
